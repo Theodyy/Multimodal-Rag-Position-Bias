@@ -23,3 +23,26 @@ Key contributions:
 - `src/` – Core implementation of PSI$_p$ computation and evaluation pipeline.  
 - `experiments/` – Example training and evaluation scripts.  
 
+---
+
+## 📈 Citation
+
+If you find this work useful, please cite our paper:
+
+```bibtex
+@inproceedings{yao2025spotlight,
+  title={Who is in the Spotlight: The Hidden Bias Undermining Multimodal Retrieval-Augmented Generation},
+  author={Yao, Jiayu and Liu, Shenghua and Wang, Yiwei and Mei, Lingrui and Bi, Baolong and Ge, Yuyao and Li, Zhecheng and Cheng, Xueqi},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2025},
+  year={2025}
+}
+```
+
+---
+
+## 📬 Contact
+
+For questions or feedback, please contact:
+📧 `yaojiayu25@mails.ucas.ac.cn`
+
+
