@@ -1,0 +1,46 @@
+# Position Bias in Multi-modal LLMs - Requirements for positionbias_final
+
+# Core Dependencies
+torch>=2.1.0
+torchvision>=0.16.0
+
+# Transformers and Model Libraries
+transformers>=4.40.0
+accelerate>=0.27.0
+sentencepiece>=0.1.99
+
+# Vision Models
+Pillow>=10.1.0
+decord>=0.6.0
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.26.0
+datasets>=2.0.0
+
+# Evaluation
+sentence-transformers>=2.2.0
+pytrec_eval>=0.5
+
+# Utilities
+tqdm>=4.64.0
+pyyaml>=6.0
+protobuf>=4.25.0
+python-dotenv>=1.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+opencv-python>=4.8.0
+
+# Qwen2-VL Support
+qwen-vl-utils>=0.1.0
+
+# Additional dependencies
+requests>=2.31.0
+openai>=1.0.0
+
+# Jupyter (for visualization notebooks)
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+notebook>=6.5.0
